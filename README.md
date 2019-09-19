@@ -6,7 +6,7 @@ This is a basic implementation of the [Gosu Ruby tutorial](https://github.com/go
 Install [Gosu](https://github.com/gosu/gosu)
 
 ```
-  gem install gosu-examples
+  gem install gosu
 ```
 
 # Running the game
